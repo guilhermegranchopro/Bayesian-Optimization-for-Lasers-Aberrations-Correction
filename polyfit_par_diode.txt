@@ -1,0 +1,2 @@
+These are the parameters of the polynomial fit of the calibration curve for the diode laser (660nm) from the highest order, 5, to the lowest
+[-4.20048085e-02  7.98342122e-01 -4.39024219e+00  3.64733204e+00 4.57539982e+01  2.92046819e+00]
